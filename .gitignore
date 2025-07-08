@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pkl
+*.log
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Gradio cache (optional)
+gradio_cached_examples/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode config (optional)
+.vscode/
+
+# Dataset
+data/
+
+# Gradio flagging logs
+.gradio/
