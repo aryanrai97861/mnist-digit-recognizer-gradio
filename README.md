@@ -68,22 +68,6 @@ Then open your browser and go to: [http://127.0.0.1:7860](http://127.0.0.1:7860)
 
 ---
 
-## 📂 Project Structure
-
-bash
-.
-├── gradio_app.py          # Gradio interface to draw digits
-├── train_mnist.py         # Training script with early stopping
-├── test_mnist.py          # Evaluate test accuracy
-├── mnist-model.pth        # Saved model
-├── requirements.txt       # Required Python packages
-├── visualize_predictions.py # (Optional) For visualizing predictions
-├── .gitignore             # Files/folders to ignore in version control
-└── README.md              # You're reading it!
-
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
